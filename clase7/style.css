@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+
+    display: flex;
+}
+
+div{
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    
+
+}
+
+.caja1{
+    overflow: auto;
+    
+  
+}
+
+.caja2{
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+    border-radius: 5px;
+    
+
+}
+.caja4{
+    border-radius: 80px;
+}
